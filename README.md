@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriel-lucas-9b1b0013a) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/adriellucas1049@gmail.com) 
 
 ![adriel-ldl GitHub stats](https://github-readme-stats.vercel.app/api?username=adriel-ldl&show_icons=true&theme=highcontrast)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=highcontrast"/>
 
 ## Tecnologia que uso no dia a dia 
 
